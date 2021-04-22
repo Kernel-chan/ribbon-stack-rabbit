@@ -3,7 +3,7 @@ A free and open-source recreation of Disney's Stack Rabbit, a isometric match-th
 
 Slide and match some veggies! Available for Windows, Linux and Android!
 
-This game is a part of Project Continuum, which is a project that aims recreating deprecated or abandonware.
+This game is a part of Project Continuum, which is a project that aims recreating deprecated software or abandonware.
 
 #Will be open after first code commit.#
 
