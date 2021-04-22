@@ -7,4 +7,5 @@ This game is a part of Project Continuum, which is a project that aims recreatin
 
 #Will be open after first code commit.#
 
-Stack Rabbit - 2014 © Disney - All rights reserved.
+2013 - 2014 © Disney
+
